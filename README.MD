@@ -163,7 +163,7 @@ Country:
 |Dipali Walke |Fullstack Devekoper | Pune, India |Angular7, 8, 9 , Web API, Asp.net MVC, Sql server  |Remote |[Email](mailto:dipaliwalke5@gmail.com)<br/> [LinkedIn](https://www.linkedin.com/in/dipali-walke-92869330) |
 | Pawan Jain    | Full Stack Developer   | Bangalore / Gurgaon / Hyderabad | ReactJs, NodeJS, Angular, NestJS | ✅ | [LinkedIn](https://www.linkedin.com/in/jainpawan21/)  |
 |Neha Lakma |Frontend developer| India | ReactJs, VanillaJs, Firebase, SaaS, Styled-Components, Material-UI | Onsite/Remote| [Email](mailto:lakma.neha@gmail.com)<br/>[LinkedIn](https://www.linkedin.com/in/neha-lakma-b5436b1b0/) <br/> [Portfolio](https://neha-lakma-portfolio.netlify.app/)  |
-|Ravi Krishnudu |Frontend developer |India |ReactJs,Redux,javascript, HTML,CSS, NodeJs,ExpressJS| Onsite/Remote |[Email](mailto:ivar.venna@gmail.com)<br/> [LinkedIn](https://www.linkedin.com/in/ravi-krishnudu)|
+|Ravi Krishnudu |Frontend developer |Hyderabad India |ReactJs, Redux, javascript, HTML, CSS, Node.js, Express.js | Onsite/Remote |[Email](mailto:ivar.venna@gmail.com)<br/> [Github](https://github.com/ravikrishnudu) <br>[LinkedIn](https://www.linkedin.com/in/ravi-krishnudu)|
 ## Singapore
 
 |  Name    |  Role    |   Location    |   Skills    |   Remote    |   Contact    |
